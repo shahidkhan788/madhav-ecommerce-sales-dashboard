@@ -64,4 +64,5 @@ Dashboard UI/UX Design in Power BI
 🤝 Feedback
 
 Feedback and suggestions are always welcome! Feel free to open an issue or connect with me on LinkedIn: https://www.linkedin.com/in/shahidkhan07.
-Example: https://github.com/shahidkhan788/madhav-ecommerce-sales-dashboard/blob/main/madhav-ecommerce-sales-dashboard.png
+
+Example: ![Dashboard Preview](https://github.com/shahidkhan788/madhav-ecommerce-sales-dashboard/blob/main/madhav-ecommerce-sales-dashboard.png)
