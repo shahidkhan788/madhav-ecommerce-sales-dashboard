@@ -11,22 +11,22 @@ This dashboard provides a 360° view of e-commerce sales data, enabling stakehol
 📌 Key Insights
 
 
-💰 Total Net Amount: ₹2M | Sum of Profit: 37K | Sum of Quantity: 6K
-🏆 Top Performing State: Uttar Pradesh with ₹0.28M in net sales
-📦 Category-wise Profit Split: Electronics (36%), Clothing (35.6%), Furniture (28.3%)
-💳 Payment Mode Analysis: Credit Card and COD generate the highest profit (13K each), followed by EMI, Debit Card, and UPI
+💰 Total Net Amount: ₹2M | Sum of Profit: 37K | Sum of Quantity: 6K \
+🏆 Top Performing State: Uttar Pradesh with ₹0.28M in net sales \
+📦 Category-wise Profit Split: Electronics (36%), Clothing (35.6%), Furniture (28.3%) \
+💳 Payment Mode Analysis: Credit Card and COD generate the highest profit (13K each), followed by EMI, Debit Card, and UPI \
 🎯 Target Tracking: NetAmount vs Target gauge to monitor performance against goals
 
 
 ⚙️ Features
 
 
-Top 5 State Sales comparison (bar chart)
-Sum of NetAmount and Profit by Payment Mode (combo chart)
-Sum of Profit by Category (pie chart)
-Sum of Profit by Payment Mode (bar/progress chart)
-NetAmount vs Target (gauge chart)
-Interactive slicers for Quarter and Month
+Top 5 State Sales comparison (bar chart) \
+Sum of NetAmount and Profit by Payment Mode (combo chart) \
+Sum of Profit by Category (pie chart) \
+Sum of Profit by Payment Mode (bar/progress chart) \
+NetAmount vs Target (gauge chart) \
+Interactive slicers for Quarter and Month \
 KPI cards for Profit, Quantity, and NetAmount
 
 
@@ -34,8 +34,8 @@ KPI cards for Profit, Quantity, and NetAmount
 
 
 Power BI Desktop
-DAX (Data Analysis Expressions)
-Power Query for data cleaning and transformation
+DAX (Data Analysis Expressions) \
+Power Query for data cleaning and transformation \
 Data Modeling (relationships between fact and dimension tables)
 
 
