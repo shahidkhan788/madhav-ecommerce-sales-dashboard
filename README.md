@@ -1,27 +1,66 @@
-# madhav-ecommerce-sales-dashboard
-I designed this E-commerce Sales Dashboard in Power BI to practice real-world business reporting — covering sales trends, profit analysis, payment modes, and target tracking, all in one interactive view.
+# 📊 Madhav E-commerce Sales Dashboard | Power BI
 
-📊 New Project: E-commerce Sales Dashboard in Power BI
+An interactive Power BI dashboard built to analyze e-commerce sales performance across states, product categories, and payment modes — turning raw transactional data into clear, actionable business insights.
 
-I built an interactive sales analytics dashboard to track and visualize key business metrics for an e-commerce dataset.
+Show Image
 
-🔍 What it covers:
-✅ Top 5 state-wise net sales performance
-✅ Profit & Net Amount breakdown by payment mode (COD, EMI, Credit Card, UPI, Debit Card)
-✅ Category-wise profit distribution (Clothing, Electronics, Furniture)
-✅ Payment mode performance against 100% target
-✅ Net Amount vs Target using a gauge visual
-✅ Dynamic filtering by Quarter and Month
+🔍 Overview
 
-📈 Key insights I uncovered:
+This dashboard provides a 360° view of e-commerce sales data, enabling stakeholders to track revenue, profit, and quantity trends while drilling down by state, category, payment mode, and time period (quarter/month).
+
+📌 Key Insights
 
 
-Uttar Pradesh leads with the highest net sales (0.28M)
-Electronics contributes the highest profit share (36%)
-Credit Card & COD are the top-performing payment modes (13K profit each)
-Net Amount is currently at 26.1% of the yearly target
+💰 Total Net Amount: ₹2M | Sum of Profit: 37K | Sum of Quantity: 6K
+🏆 Top Performing State: Uttar Pradesh with ₹0.28M in net sales
+📦 Category-wise Profit Split: Electronics (36%), Clothing (35.6%), Furniture (28.3%)
+💳 Payment Mode Analysis: Credit Card and COD generate the highest profit (13K each), followed by EMI, Debit Card, and UPI
+🎯 Target Tracking: NetAmount vs Target gauge to monitor performance against goals
 
 
-🛠️ Tools used: Power BI | DAX | Data Modeling | Interactive Visuals
+⚙️ Features
 
-This project helped me strengthen my skills in data visualization, dashboard design, and translating raw data into actionable business insights.
+
+Top 5 State Sales comparison (bar chart)
+Sum of NetAmount and Profit by Payment Mode (combo chart)
+Sum of Profit by Category (pie chart)
+Sum of Profit by Payment Mode (bar/progress chart)
+NetAmount vs Target (gauge chart)
+Interactive slicers for Quarter and Month
+KPI cards for Profit, Quantity, and NetAmount
+
+
+🛠️ Tools & Technologies
+
+
+Power BI Desktop
+DAX (Data Analysis Expressions)
+Power Query for data cleaning and transformation
+Data Modeling (relationships between fact and dimension tables)
+
+
+📁 Dataset
+
+The dataset includes e-commerce transaction-level data with fields such as State, Category, PaymentMode, NetAmount, Profit, Quantity, and Date.
+
+🚀 How to Use
+
+
+Clone this repository
+Open the .pbix file in Power BI Desktop
+Explore the dashboard using the Quarter and Month filters
+Hover over visuals for detailed tooltips
+
+
+📈 Skills Demonstrated
+
+
+Data Visualization & Storytelling
+DAX Calculations
+Interactive Filters & Slicers
+Dashboard UI/UX Design in Power BI
+
+
+🤝 Feedback
+
+Feedback and suggestions are always welcome! Feel free to open an issue or connect with me on LinkedIn: https://www.linkedin.com/in/shahidkhan07.
